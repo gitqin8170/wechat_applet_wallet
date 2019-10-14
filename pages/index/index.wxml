@@ -1,0 +1,4 @@
+<view>
+<navigator url="./wallet/wallet">点击进入我的钱包
+</navigator>
+</view>
